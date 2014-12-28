@@ -1,0 +1,3 @@
+client
+dir.txt
+server
